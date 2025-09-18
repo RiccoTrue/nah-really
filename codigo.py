@@ -1,10 +1,4 @@
-nombre = "Lucas"
+nombre = "Soy"
 apellido = "dalto"
-
-<<<<<<< HEAD
-print("hola " + nombre + " " + apellido + " ¿Cómo estas?")
-=======
-saludo = "hola " + nombre + " " + apellido
-
+saludo = "Hola " + nombre + " " + apellido + " ¿Como estas?"
 print(saludo)
->>>>>>> conflict-branch
